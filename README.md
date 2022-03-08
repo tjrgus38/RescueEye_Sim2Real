@@ -11,7 +11,26 @@
 
 
 > PABLO 합성 데이터 약 45GB
-> -이미지 크기 : 3840*2160
-> -레이블 : Person, Pad, Pablo Mark
+> - 이미지 크기 : 3840*2160
+> - 레이블 : Person, Pad, Pablo Mark
 
 
+![모델1](https://user-images.githubusercontent.com/90364187/157182090-f380aad5-8e2f-4e15-940e-852efdd8e1ce.png)
+- 진행 중인 프로세스
+
+
+![사진](https://user-images.githubusercontent.com/90364187/157182227-956c7276-8d88-49bd-9657-f8e0a21de3c1.png)
+- SARD 예시 이미지
+
+
+![17](https://user-images.githubusercontent.com/90364187/157182315-b2bf7133-1df9-4ad9-91e3-5b9335c47e0a.png)
+- 17번 heatmap
+
+
+![20](https://user-images.githubusercontent.com/90364187/157182357-87371f93-d7f6-487a-84fd-22020ac95a31.png)
+- 20번 heatmap
+
+![23](https://user-images.githubusercontent.com/90364187/157182387-59f2615e-47f9-4d19-8d3a-c915cb25eca8.png)
+- 23번 heatmap
+
+**히트맵을 보고 난뒤 중간발표 이후에는 YOLOv5의 구조를 바꾸거나 Augmentation 중 Copy paste를 적용해볼 예정.
