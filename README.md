@@ -33,4 +33,12 @@
 ![23](https://user-images.githubusercontent.com/90364187/157182387-59f2615e-47f9-4d19-8d3a-c915cb25eca8.png)
 - 23번 heatmap
 
-**히트맵을 보고 난뒤 중간발표 이후에는 YOLOv5의 구조를 바꾸거나 Augmentation 중 Copy paste를 적용해볼 예정.
+**히트맵을 보고 난뒤 중간발표 이후에는 YOLOv5의 구조를 바꾸거나 Augmentation 중 Copy paste를 적용해볼 예정.**
+
+
+![YOLO 구조](https://user-images.githubusercontent.com/90364187/157182733-cd84fbff-ed2b-4d3d-bc64-d57acdf8a0fd.png)
+- YOLO의 구조에서 17번 20번 23번이 가장 중요
+
+![프로세스](https://user-images.githubusercontent.com/90364187/157182891-d836b8eb-b983-41aa-a38b-6721f4dead58.png)
+
+- 최종적으로 진행된  프로세스
